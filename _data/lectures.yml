@@ -833,9 +833,9 @@
   lecturer:
   # quiz: >
   #   <strong>Quiz 3</strong>
-  recitation: Quiz 3 Review 
+  recitation: Quiz 3 Review
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec10_Quiz3.pdf
-  notes: 
+  notes:
   readings:
   logistics:
 
