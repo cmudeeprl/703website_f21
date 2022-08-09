@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
-description: 10-703 • Fall 2021 • Carnegie Mellon University
+description: 10-703 • Fall 2022 • Carnegie Mellon University
 logo: cmu-logo.png
 news: true
 ---
@@ -39,7 +39,7 @@ Students should have a solid understanding of the following areas
 
 - **Lectures:** Monday, Wednesday 11:50 AM - 1:10 PM
 - **Recitations:** Friday 11:50 AM - 1:10 PM
-- **Lecture/Recitation Location:** GHC 4401
+- **Lecture/Recitation Location:** HOA 160
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
